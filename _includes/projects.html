@@ -7,3 +7,13 @@
     </div>
   {% endfor %}
 </div>
+<details class="details-overlay">
+  <summary class="btn mb-5">More</summary>
+  <div class="d-sm-flex flex-wrap gutter-condensed position-relative" style="z-index: 100">
+    {% for repository in site.github.public_repositories offset: 10 %}
+      <div class="col-sm-6 col-md-12 col-lg-6 col-xl-4 mb-3">
+        {% include repo-card.html %}
+      </div>
+    {% endfor %}
+  </div>
+</details>
