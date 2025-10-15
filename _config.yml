@@ -65,7 +65,7 @@ topics:
 
   - name: Compose Multiplatform
     web_url: https://www.jetbrains.com/compose-multiplatform/
-    image_url: https://github.com/JetBrains/compose-multiplatform/blob/da82a7f31d69fa3ec50812d242e5c2bb053de29b/artwork/compose-logo.png
+    image_url: https://raw.githubusercontent.com/JetBrains/compose-multiplatform/da82a7f31d69fa3ec50812d242e5c2bb053de29b/artwork/compose-logo.png
 
   - name: Kotlin
     web_url: https://github.com/topics/kotlin
