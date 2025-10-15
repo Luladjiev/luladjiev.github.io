@@ -71,7 +71,7 @@ topics:
     web_url: https://github.com/topics/kotlin
     image_url: https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/kotlin/kotlin.png
 
- - name: Spring Boot
+  - name: Spring Boot
     web_url: https://github.com/topics/spring-boot
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png
 
@@ -87,7 +87,7 @@ topics:
     web_url: https://github.com/topics/swiftui
     image_url: https://raw.githubusercontent.com/github/explore/ecafd74ee977bc5f312cb476f3ba8054ce232f0e/topics/swiftui/swiftui.png
 
-    - name: Ruby on Rails
+  - name: Ruby on Rails
     web_url: https://github.com/topics/rails
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png
     
